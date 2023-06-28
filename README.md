@@ -1,1 +1,2 @@
-my first readme
+My first README updated 
+welcome to first README file
